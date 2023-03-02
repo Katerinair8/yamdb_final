@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-24 16:29+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api/v1/views.py:81
+msgid "Не надо пытаться менять свою роль"
+msgstr ""
+
+#: reviews/models.py:15
+msgid "Категория"
+msgstr ""
+
+#: reviews/models.py:16
+msgid "Категории"
+msgstr ""
+
+#: reviews/models.py:26
+msgid "Жанр"
+msgstr ""
+
+#: reviews/models.py:27
+msgid "Жанры"
+msgstr ""
+
+#: reviews/models.py:33
+msgid "Название произведения"
+msgstr ""
+
+#: reviews/models.py:35
+msgid "Год создания"
+msgstr ""
+
+#: reviews/models.py:36
+msgid "Год в формате 2022"
+msgstr ""
+
+#: reviews/models.py:40
+msgid "Такой год еще не наступил!"
+msgstr ""
+
+#: reviews/models.py:42
+msgid "Слишком ранняя дата!"
+msgstr ""
+
+#: reviews/models.py:52
+msgid "Описание"
+msgstr ""
+
+#: reviews/models.py:55
+msgid "Произведение"
+msgstr ""
+
+#: reviews/models.py:56
+msgid "Произведения"
+msgstr ""
+
+#: reviews/models.py:93
+msgid "Дата создания отзыва"
+msgstr ""
+
+#: reviews/models.py:99
+msgid "Максимальная оценка - 10"
+msgstr ""
+
+#: reviews/models.py:100
+msgid "Минимальная оценка - 1"
+msgstr ""
+
+#: reviews/models.py:105
+msgid "Отзыв"
+msgstr ""
+
+#: reviews/models.py:106
+msgid "Отзывы"
+msgstr ""
+
+#: reviews/models.py:132
+msgid "Дата комментария к отзыву"
+msgstr ""
+
+#: reviews/models.py:136
+msgid "Коментарий"
+msgstr ""
+
+#: reviews/models.py:137
+msgid "Коментарии"
+msgstr ""
+
+#: users/models.py:27
+msgid "Электронная почта"
+msgstr ""
+
+#: users/models.py:33
+msgid "Биография"
+msgstr ""
+
+#: users/models.py:35
+msgid "Роль пользователя"
+msgstr ""
+
+#: users/models.py:41
+msgid "Пользователь"
+msgstr ""
+
+#: users/models.py:42
+msgid "Пользователи"
+msgstr ""
