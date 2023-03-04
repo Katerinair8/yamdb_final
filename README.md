@@ -6,6 +6,10 @@ api для проекта
 Проект YaMDb собирает отзывы пользователей
 на различные произведения.
 
+# Бэйдж, который показывает статус workflow:
+
+https://github.com/katerinair8/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
+
 # Шаблон наполнения .env-файла:
 
 Расположен в файле example.env в директории infra
