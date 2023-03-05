@@ -8,8 +8,7 @@ from users.models import User
 def confirmation_code(self):
     """Формирует код подтвержденияe-mail."""
     user = get_object_or_404(User, username=self)
-    code = default_token_generator.make_token(user)
-    return code
+    return default_token_generator.make_token(user)
 
 
 def sending_registration_code(self):
