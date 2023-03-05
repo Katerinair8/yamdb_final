@@ -12,7 +12,6 @@ from rest_framework.serializers import (
     SlugRelatedField,
     ValidationError,
 )
-
 from reviews.models import Category, Comment, Genre, Review, Title
 from users.models import User
 
