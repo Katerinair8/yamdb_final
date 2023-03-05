@@ -18,6 +18,7 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.viewsets import ModelViewSet
 from rest_framework_simplejwt.tokens import AccessToken
+
 from reviews.models import Category, Genre, Review, Title
 from users.models import User
 
@@ -38,7 +39,7 @@ from .serializers import (
     UserSignupSerializer,
     UserTokenReceivingSerializer,
 )
-from .token import sending_registration_code
+from v1.token import sending_registration_code
 from .viewsets import ListCreateDeleteViewSet
 
 
