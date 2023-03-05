@@ -38,7 +38,7 @@ from .serializers import (
     UserSignupSerializer,
     UserTokenReceivingSerializer,
 )
-from v1.token import sending_registration_code
+from .token import sending_registration_code
 from .viewsets import ListCreateDeleteViewSet
 
 
