@@ -46,7 +46,7 @@ jobs:
             echo POSTGRES_PASSWORD=${{ secrets.POSTGRES_PASSWORD }} >> .env
             echo DB_HOST=${{ secrets.DB_HOST }} >> .env
             echo DB_PORT=${{ secrets.DB_PORT }} >> .env
-            sudo docker image pull yamdb_final:latest
+            sudo docker image pull ${{ secrets.DOCKER_USERNAME }}/yamdb_final:latest
             sudo docker-compose up -d
 
   build_and_push_to_docker_hub:
