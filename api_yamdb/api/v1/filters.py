@@ -1,7 +1,6 @@
 """Кастомный фильтр для представления Title.
 """
 from django_filters import CharFilter, FilterSet, NumberFilter
-
 from reviews.models import Title
 
 
