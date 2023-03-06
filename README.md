@@ -6,6 +6,9 @@ api для проекта
 Проект YaMDb собирает отзывы пользователей
 на различные произведения.
 
+# IP боевого сервера:
+51.250.106.169
+
 # Бэйдж, который показывает статус workflow:
 
 https://github.com/katerinair8/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
