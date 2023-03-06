@@ -22,6 +22,7 @@ jobs:
       run: |
         python -m flake8
         cd api_yamdb/
+        pytest
         python manage.py test
   deploy:
     runs-on: ubuntu-latest
