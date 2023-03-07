@@ -11,7 +11,7 @@ api для проекта
 
 # Бэйдж, который показывает статус workflow:
 
-https://github.com/katerinair8/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
+![example workflow](https://github.com/katerinair8/yamdb_final/actions/workflows/yamdb_workflow/badge.svg?branch=master?event=push)
 
 # Шаблон наполнения .env-файла:
 
