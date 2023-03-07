@@ -11,7 +11,7 @@ api для проекта
 
 # Бэйдж, который показывает статус workflow:
 
-![example workflow](https://github.com/katerinair8/yamdb_final/actions/workflows/yamdb_workflow/badge.svg?branch=master?event=push)
+[![Django-app workflow](https://github.com/Katerinair8/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)](https://github.com/Katerinair8/yamdb_final/actions/workflows/yamdb_workflow.yml)
 
 # Шаблон наполнения .env-файла:
 
