@@ -54,7 +54,7 @@ DRF Simple JWT 4.7
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/Valllium/api_yamdb.git
+git clone https://github.com/Katerinair8/yamdb_final.git
 ```
 
 ```
